@@ -1,6 +1,8 @@
 # Dumbways
 
+IDE yang di gunakan : VS Code
 node_modules tidak saya upload karna file terlalu besar
+database: me_dumb.sql
 
 stack yang saya gunakan :
     "body-parser": "^1.19.0",
@@ -8,3 +10,6 @@ stack yang saya gunakan :
     "express": "^4.17.1",
     "method-override": "^3.0.0",
     "mysql": "^2.18.1"
+
+untuk menjalankan no 4:
+~node app.js
